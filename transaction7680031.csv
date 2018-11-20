@@ -1,0 +1,5 @@
+"trans_id","account_id","usr_id","date_of_transaction","time","trans_desc","trans_type","amount","balance"
+"31","7680031","42","2018-01-24","23:59:11","Amount Transfered From account:7680042","Credit","100","500"
+"23","7680031","42","2018-01-22","11:59:23","Amount Transfered From account:7680040","Credit","100","400"
+"7","7680031","42","2018-01-20","17:38:44","Amount Transfered to account:7680036","Debit","200","300"
+"2","7680031","42","2018-01-20","17:36:56","Money Loaded to the Account ","Credit","100","500"
